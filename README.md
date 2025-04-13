@@ -36,12 +36,12 @@
 
 ## 📸 Sample Output
 
-Here’s an example of how **DocTalk** works in action. After uploading a PDF or CSV file, you can ask questions about the content. Below is a screenshot showing the sample output when asking a question based on a document:
+Here’s an example of how **DocTalk** works in action. After uploading a PDF, CSV file or a URL, you can ask questions about the content. Below is a screenshot showing the sample output when asking a question based on a URL:
 
 ![Sample Output](https://github.com/OmkarChoulwar/DocTalk/blob/main/DocTalk.png)
 
 ### Explanation:
-In this example, the user has uploaded a **PDF document** and asked a question about the document's content. The AI model has processed the document and provided an accurate, context-aware answer. The system displays the question along with the AI's response in real-time, making it easy for users to extract information quickly and efficiently.
+In this example, the user has provided a **URL of Wikipedia** and asked a question about the URL's content. LLM has processed the question and provided an accurate, context-aware answer. The system displays the question along with the LLM's response in real-time, making it easy for users to extract information quickly and efficiently.
 
 Feel free to try it yourself by uploading your own documents and asking questions to see **DocTalk** in action!
 
