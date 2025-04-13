@@ -38,7 +38,7 @@
 
 Here’s an example of how **DocTalk** works in action. After uploading a PDF or CSV file, you can ask questions about the content. Below is a screenshot showing the sample output when asking a question based on a document:
 
-![Sample Output](C:\Users\omkar\Downloads\Langchain_Learning\DocTalk.png)
+![Sample Output](https://github.com/OmkarChoulwar/DocTalk/blob/main/DocTalk.png)
 
 ### Explanation:
 In this example, the user has uploaded a **PDF document** and asked a question about the document's content. The AI model has processed the document and provided an accurate, context-aware answer. The system displays the question along with the AI's response in real-time, making it easy for users to extract information quickly and efficiently.
